@@ -98,3 +98,18 @@ label {
         width: 44rem;
     }
 }
+
+
+.nav{
+    ul{
+        list-style: none;
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+
+        li{
+            font-size: 2rem;
+        }
+    }
+}
+
